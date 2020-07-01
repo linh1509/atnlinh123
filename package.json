@@ -2,11 +2,12 @@
   "name": "thtu",
   "version": "1.0.0",
   "description": "",
-  "main": "node 06.03.00.mvc01",
+  "main": "06.03.00.mvc01.js",
   "scripts": {
     "start": "node 06.03.00.mvc01.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  
   "author": "",
   "license": "ISC",
   "dependencies": {
