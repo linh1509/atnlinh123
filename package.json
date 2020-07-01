@@ -2,7 +2,7 @@
   "name": "thtu",
   "version": "1.0.0",
   "description": "",
-  "main": "06.03.00.mvc01.js",
+  "main": "node 06.03.00.mvc01",
   "scripts": {
     "start": "node 06.03.00.mvc01.js",
     "test": "echo \"Error: no test specified\" && exit 1"
